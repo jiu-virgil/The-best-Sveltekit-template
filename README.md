@@ -1,6 +1,6 @@
 # The best SvelteKit template, probably
 
-Everything you need to build a Svelte project, powered by [DaisyUI](https://daisyui.com/) [TailwindCSS](https://tailwindcss.com/), [RemixIcon](https://remixicon.com/) and [Prettier](https://prettier.io/).
+Everything you need to build a Svelte project, powered by [DaisyUI](https://daisyui.com/), [TailwindCSS](https://tailwindcss.com/), [RemixIcon](https://remixicon.com/) and [Prettier](https://prettier.io/).
 
 I believe these tools provide the best experience to both learn Web Development as a beginner and swiftly create scalable websites.
 
